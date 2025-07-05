@@ -14,7 +14,7 @@ dist/
 *.tsbuildinfo
 
 # ------------------------------
-# 🔒 Lockfiles (escolha só um!)
+# 🔒 Lockfiles
 # ------------------------------
 pnpm-lock.yaml
 yarn.lock
@@ -41,11 +41,11 @@ coverage/
 *.lcov
 
 # ------------------------------
-# 🧪 Storybook (se usar)
+# 🧪 Storybook
 # ------------------------------
 storybook-static/
 
 # ------------------------------
-# 🗂 Shadcn UI (se mover componentes)
+# 🗂 Shadcn UI
 # ------------------------------
 components.json
